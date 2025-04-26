@@ -4,13 +4,25 @@ const translate = require('google-translate-api-x');
 
 // Available languages to translate to
 const languages = {
-  es: 'Spanish',
+  // es: 'Spanish',
   vi: 'Vietnamese',
   pt: 'Portuguese',
   ar: 'Arabic',
   fr: 'French',
   ru: 'Russian',
   de: 'German',
+  // bn: 'Bengali',
+  it: 'Italian',
+  tr: 'Turkish',
+  ta: 'Tamil',
+  ur: 'Urdu',
+  fa: 'Persian',
+  sw: 'Swahili',
+  mr: 'Marathi',
+  th: 'Thai',
+  gn: 'Guarani',
+  uk: 'Ukrainian',
+  ms: 'Malay',
   // Add more languages as needed
 };
 
